@@ -1,0 +1,37 @@
+*{
+    margin: 0;    
+}
+
+body{
+    background-color:#A91079;
+}
+
+.container{
+    display: flex;
+    min-height: 42vh;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+
+.btn{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.yInfo{
+    color:white;
+    font-weight: 500;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+.mp{
+    font-weight: 400;
+}
